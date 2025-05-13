@@ -1,5 +1,5 @@
 import streamlit as st
-!import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 # تنظیمات اولیه صفحه
 st.set_page_config(page_title="محاسبه سود و زیان", page_icon="💰")
